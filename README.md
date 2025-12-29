@@ -9,7 +9,7 @@ A playful landing page for a fictional dog matchmaking app. Built with semantic 
 - HTML5
 - CSS3
 - Responsive layout
-- Static assets in `IMG/`
+- Static assets in `images/`
 
 ## Getting Started
 
@@ -27,16 +27,16 @@ No build tools or runtime needed. Works in any modern browser.
 2. Open the project:
    - Double-click `index.html`, or
    - Serve locally (optional):
-     ```bash
-     python -m http.server 8000
-     # Visit http://localhost:8000
-     ```
+   ```bash
+   python -m http.server 8000
+   # Visit http://localhost:8000
+   ```
 
 ## Usage
 
 - Explore the hero and feature sections
 - Customize copy and styles in `index.html` and `style.css`
-- Replace images under `IMG/` with your own assets
+- Replace images under `images/` with your own assets
 
 ## Features
 
